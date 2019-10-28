@@ -1,0 +1,1 @@
+C:\Users\jessu\source\repos\DirectX 12 Demo\DirectX 12 Demo\DirectX 12 Demo.vcxproj;x86
